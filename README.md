@@ -8,4 +8,5 @@ E TİCARET SİTELERİNDE KULLANILAN ÜRÜNLERİN HTML+CSS+JAVASCRİPT İLE UYARL
 
 
 
-![image](https://user-images.githubusercontent.com/63557903/115502144-1ca32e00-a27d-11eb-8210-ef127eb29997.png)
+![image](https://user-images.githubusercontent.com/63557903/115502211-36447580-a27d-11eb-8829-4c36fb1c8691.png)
+
